@@ -1,0 +1,14 @@
+.landing-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: black;
+  }
+  
+  .loading-container {
+    margin-top: 2rem;
+  }
+  
+  
